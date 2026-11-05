@@ -1,4 +1,4 @@
-# Data-cleaning-and-prepartion
+# E-Commerce Data
 # ==========================================
 # INCONSISTENT VALUES CHECKING & CLEANING
 # ==========================================
